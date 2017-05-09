@@ -1,0 +1,10 @@
+base
+knitr
+ggplot2
+purrr
+NLP
+tm
+dplyr
+tidytext
+tidyr
+janeaustenr
